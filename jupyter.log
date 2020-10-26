@@ -1,8 +1,0 @@
-[I 20:47:51.288 NotebookApp] Serving notebooks from local directory: /home/mvandi/asgn4
-[I 20:47:51.288 NotebookApp] Jupyter Notebook 6.1.4 is running at:
-[I 20:47:51.288 NotebookApp] https://ip-172-31-16-45:8888/
-[I 20:47:51.288 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[I 20:47:58.547 NotebookApp] 302 GET / (142.117.209.111) 0.51ms
-[I 20:47:58.570 NotebookApp] 302 GET /tree? (142.117.209.111) 0.54ms
-[I 20:48:03.987 NotebookApp] 302 POST /login?next=%2Ftree%3F (142.117.209.111) 104.02ms
-[I 20:48:10.609 NotebookApp] Kernel started: 70f3e67e-699f-4713-b5b5-20322c02803d, name: python3
